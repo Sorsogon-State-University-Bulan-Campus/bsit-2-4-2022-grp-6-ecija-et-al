@@ -8,7 +8,7 @@ Answer: To allows everyone to get to know some famous filipino dishes and to lea
 # How important it is for the filipinos?
 Answer: It is very important to recognize the filipino by thier dishes and also to represent thier food culture
 # What is the point of this Book?
-Answee: Not only to know the filipino dishes but to preserve the originals filipino dishes so to reach even the next generation
+Answer: Not only to know the filipino dishes but to preserve the originals filipino dishes so to reach even the next generation
 # Authors
 * 🚹Jamai Ecija (@EcijaJamai)
 * 🚺Kimberly Gidoc (@KimGidoc)
