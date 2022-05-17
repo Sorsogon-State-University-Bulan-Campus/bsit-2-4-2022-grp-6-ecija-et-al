@@ -10,7 +10,9 @@ Answer: It is very important to them not only to know about their food culture b
 Answer: To promote the original filipino dishes and to recognize the filipino and also to maintain the food culture of this country.
 # ✍️ Authors  
 •🚹 Jamai Ecija (@EcijaJamai)
+
 •🚺 Kimberly Gidoc (@KimGidoc)
+
 •🚺 Princess Jell Manallo (@PrincessAcosta)
 # Reference
 👉https://cuisinen.com/filipino-cookbooks/
