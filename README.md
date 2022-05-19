@@ -9,11 +9,11 @@
 # What is the point of this book?
 👉🏿Answer: To promote the original filipino dishes and to recognize the filipino and also to maintain the food culture of this country.
 # ✍️ Authors  
-•🚹 Jamai Ecija (@EcijaJamai)
+•🚹 [Jamai Ecija (@EcijaJamai)](https://github.com/EcijaJamai)
 
-•🚺 Kimberly Gidoc (@KimGidoc)
+•🚺 [Kimberly Gidoc (@KimGidoc)](https://github.com/KimGidoc)
 
-•🚺 Princess Jell Manallo (@PrincessAcosta)
+•🚺 [Princess Jell Manallo (@PrincessAcosta)](https://github.com/PrincessAcosta)
 # Reference
 👉https://cuisinen.com/filipino-cookbooks/
 # Acknowledgement
