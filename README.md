@@ -1,7 +1,9 @@
 # <📚 Filipino Cuisine Recipe Book 📚>
 
 📖 This Filipino cook book contained some famous delicacies from the Philippines  like adobo, tinola, sinigang  and so on... and this cookbook can help you a lot  with how to prepare theses famous Filipino dishes. This book is here to help you understand the innovation of the spices, the difference of flavor profiles, and the land where these dishes were born. Just in that way, readers can truly appreciate and understand Filipino dishes. Indeed, three authors desire to share stories about Filipino culture to make this book rather than a list of recipes but the preservation of the culinary heritage of the Philippine. As well as, introducing the beauty of cultures in the Philippines in terms of famous delicacies.
-# ⁉️FAQ⁉️w
+
+This delightful collection of 85 tried and tested recipes from the Philippines showcases the full range of authentic dishes from the country. Each region has its own distinct food culture, and this book relates the secrets and soul of dishes that create the cultural mosaic that is the Philippines.
+# ⁉️FAQ⁉️
 # What is the purpose of this project?
 👉🏿Answer: To allows everyone to get to know about some filipino dishes and also to learn how to do it and for them to experience how delicious Filipino dishes are.
 # How important it is for the Filipino especially nowadays?
